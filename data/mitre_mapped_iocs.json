@@ -1,0 +1,62 @@
+[
+    {
+        "ip": "61.245.11.87",
+        "mitre_mapping": [
+            {
+                "tactic": "Lateral Movement",
+                "technique": "Remote Services (T1021)"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique": "Application Layer Protocol (T1071)"
+            }
+        ]
+    },
+    {
+        "ip": "45.148.10.121",
+        "mitre_mapping": [
+            {
+                "tactic": "Lateral Movement",
+                "technique": "Remote Services (T1021)"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique": "Application Layer Protocol (T1071)"
+            }
+        ]
+    },
+    {
+        "ip": "46.151.182.230",
+        "mitre_mapping": [
+            {
+                "tactic": "Lateral Movement",
+                "technique": "Remote Services (T1021)"
+            },
+            {
+                "tactic": "Credential Access",
+                "technique": "Unsecured Credentials (T1552)"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique": "Application Layer Protocol (T1071)"
+            }
+        ]
+    },
+    {
+        "ip": "91.224.92.14",
+        "mitre_mapping": [
+            {
+                "tactic": "Lateral Movement",
+                "technique": "Remote Services (T1021)"
+            },
+            {
+                "tactic": "Command and Control",
+                "technique": "Application Layer Protocol (T1071)"
+            }
+        ]
+    },
+    {
+        "ip": "45.93.168.13",
+        "mitre_mapping": []
+    }
+]

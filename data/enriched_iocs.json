@@ -1,0 +1,27 @@
+[
+    {
+        "ip": "61.245.11.87",
+        "nmap": "Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-30 21:17 IST\nNmap scan report for 61.245.11.87\nHost is up (0.18s latency).\nNot shown: 87 closed tcp ports (reset)\nPORT     STATE    SERVICE\n21/tcp   filtered ftp\n22/tcp   open     ssh\n135/tcp  filtered msrpc\n139/tcp  filtered netbios-ssn\n445/tcp  filtered microsoft-ds\n554/tcp  filtered rtsp\n1025/tcp filtered NFS-or-IIS\n1026/tcp filtered LSA-or-nterm\n1720/tcp filtered h323q931\n1723/tcp filtered pptp\n2000/tcp open     cisco-sccp\n3000/tcp open     ppp\n5060/tcp filtered sip\n\nNmap done: 1 IP address (1 host up) scanned in 17.27 seconds\n",
+        "whois": "% [whois.apnic.net]\n% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html\n\n% Information related to '61.245.10.0 - 61.245.11.255'\n\n% Abuse contact for '61.245.10.0 - 61.245.11.255' is 'report_abuse@infinivan.com'\n\ninetnum:        61.245.10.0 - 61.245.11.255\nnetname:        RnR-IX-PROJECT-PH\ndescr:          RnR IX NETWORK\ncountry:        PH\nadmin-c:        IIA37-AP\ntech-c:         IIA37-AP\nabuse-c:        AI782-AP\nstatus:         ALLOCATED NON-PORTABLE\nmnt-by:         MAINT-INF"
+    },
+    {
+        "ip": "45.148.10.121",
+        "nmap": "Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-30 21:17 IST\nNmap scan report for 45.148.10.121\nHost is up (2.8s latency).\nNot shown: 90 closed tcp ports (reset)\nPORT     STATE    SERVICE\n21/tcp   filtered ftp\n22/tcp   open     ssh\n135/tcp  filtered msrpc\n139/tcp  filtered netbios-ssn\n445/tcp  filtered microsoft-ds\n554/tcp  filtered rtsp\n646/tcp  filtered ldp\n1026/tcp filtered LSA-or-nterm\n1720/tcp filtered h323q931\n1723/tcp filtered pptp\n\nNmap done: 1 IP address (1 host up) scanned in 48.55 seconds\n",
+        "whois": "% This is the RIPE Database query service.\n% The objects are in RPSL format.\n%\n% The RIPE Database is subject to Terms and Conditions.\n% See https://docs.db.ripe.net/terms-conditions.html\n\n% Note: this output has been filtered.\n%       To receive output for a database update, use the \"-B\" flag.\n\n% Information related to '45.148.10.0 - 45.148.10.255'\n\n% Abuse contact for '45.148.10.0 - 45.148.10.255' is 'dmzhostabuse@gmail.com'\n\ninetnum:        45.148.10.0 - 45.148.10.255\norg:            ORG-TSL7"
+    },
+    {
+        "ip": "46.151.182.230",
+        "nmap": "Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-30 21:18 IST\nNmap scan report for 46.151.182.230\nHost is up (0.21s latency).\nNot shown: 95 filtered tcp ports (no-response)\nPORT     STATE  SERVICE\n22/tcp   open   ssh\n111/tcp  open   rpcbind\n2049/tcp open   nfs\n3306/tcp open   mysql\n5900/tcp closed vnc\n\nNmap done: 1 IP address (1 host up) scanned in 10.86 seconds\n",
+        "whois": "% This is the RIPE Database query service.\n% The objects are in RPSL format.\n%\n% The RIPE Database is subject to Terms and Conditions.\n% See https://docs.db.ripe.net/terms-conditions.html\n\n% Note: this output has been filtered.\n%       To receive output for a database update, use the \"-B\" flag.\n\n% Information related to '46.151.176.0 - 46.151.183.255'\n\n% Abuse contact for '46.151.176.0 - 46.151.183.255' is 'abuse@rocohost.com'\n\ninetnum:        46.151.176.0 - 46.151.183.255\nnetname:        NL-DEM"
+    },
+    {
+        "ip": "91.224.92.14",
+        "nmap": "Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-30 21:18 IST\nNmap scan report for 91.224.92.14\nHost is up (3.2s latency).\nNot shown: 90 closed tcp ports (reset)\nPORT     STATE    SERVICE\n21/tcp   filtered ftp\n22/tcp   open     ssh\n135/tcp  filtered msrpc\n139/tcp  filtered netbios-ssn\n445/tcp  filtered microsoft-ds\n554/tcp  filtered rtsp\n1026/tcp filtered LSA-or-nterm\n1720/tcp filtered h323q931\n1723/tcp filtered pptp\n5060/tcp filtered sip\n\nNmap done: 1 IP address (1 host up) scanned in 84.85 seconds\n",
+        "whois": "% This is the RIPE Database query service.\n% The objects are in RPSL format.\n%\n% The RIPE Database is subject to Terms and Conditions.\n% See https://docs.db.ripe.net/terms-conditions.html\n\n% Note: this output has been filtered.\n%       To receive output for a database update, use the \"-B\" flag.\n\n% Information related to '91.224.92.0 - 91.224.92.255'\n\n% Abuse contact for '91.224.92.0 - 91.224.92.255' is 'admin@serveroffer.lt'\n\ninetnum:        91.224.92.0 - 91.224.92.255\nnetname:        SERVEROFFE"
+    },
+    {
+        "ip": "45.93.168.13",
+        "nmap": "Starting Nmap 7.95 ( https://nmap.org ) at 2025-12-30 21:19 IST\nNmap scan report for 45-93-168-13.digiturunc.com (45.93.168.13)\nHost is up (5.8s latency).\nNot shown: 95 closed tcp ports (reset)\nPORT     STATE    SERVICE\n79/tcp   filtered finger\n179/tcp  filtered bgp\n554/tcp  filtered rtsp\n587/tcp  filtered submission\n1026/tcp filtered LSA-or-nterm\n\nNmap done: 1 IP address (1 host up) scanned in 865.65 seconds\n",
+        "whois": "% This is the RIPE Database query service.\n% The objects are in RPSL format.\n%\n% The RIPE Database is subject to Terms and Conditions.\n% See https://docs.db.ripe.net/terms-conditions.html\n\n% Note: this output has been filtered.\n%       To receive output for a database update, use the \"-B\" flag.\n\n% Information related to '45.93.168.0 - 45.93.168.255'\n\n% Abuse contact for '45.93.168.0 - 45.93.168.255' is 'abuse@digiturunc.com'\n\ninetnum:        45.93.168.0 - 45.93.168.255\nnetname:        DigiTurunc"
+    }
+]

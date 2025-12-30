@@ -1,0 +1,27 @@
+[
+    {
+        "ip": "61.245.11.87",
+        "risk_score": 60,
+        "risk_level": "Medium"
+    },
+    {
+        "ip": "45.148.10.121",
+        "risk_score": 60,
+        "risk_level": "Medium"
+    },
+    {
+        "ip": "46.151.182.230",
+        "risk_score": 100,
+        "risk_level": "High"
+    },
+    {
+        "ip": "91.224.92.14",
+        "risk_score": 60,
+        "risk_level": "Medium"
+    },
+    {
+        "ip": "45.93.168.13",
+        "risk_score": 0,
+        "risk_level": "Low"
+    }
+]
